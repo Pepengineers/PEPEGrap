@@ -1,0 +1,24 @@
+{
+  "name": "com.pepengineers.pepegrap",
+  "displayName": "PEPEGrap",
+  "version": "2.0.0",
+  "unity": "2021.3",
+  "license": "MIT",
+  "description": "Scene Texture Grap implementation.",
+  "keywords": [
+    "grap",
+    "render"
+  ],
+  "author": {
+	  "name": "PEPengineers"
+  },
+  "category": "game tool",
+  "dependencies": {},
+  "samples": [
+    {
+    "displayName": "Simple Sample",
+    "description": "A sample with grap.",
+    "path": "Samples~/Simple Sample"
+    }
+  ]
+}
